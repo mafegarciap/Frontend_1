@@ -1,0 +1,23 @@
+h1,h2,h3{
+    color:#005677 ;
+    background-color:#C4C4C4;
+
+}
+
+#footer{
+    color: white;
+    background-color:#005677 ;
+}
+
+.logo{
+    display:block;
+    margin:auto;
+    }
+    header{
+        background-color:#E5E5E5;
+    }
+
+h1{
+    text-align: center;
+}
+    
