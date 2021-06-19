@@ -1,0 +1,12 @@
+header
+.banner{ background-image: url ('img\banner.png'); background-size: 1800px; background-position: center}
+
+.perfil{float:left; align-content: stretch;}
+
+body {background-color:rgb(243, 235, 188)}
+
+h1.principal{text-align:center; font-family: fantasy; background-color: rgba(230, 141, 222)}
+
+span.cargos {font-weight: bold;}
+
+footer{background-color: rgb(230, 141, 222); text-align: center;}
