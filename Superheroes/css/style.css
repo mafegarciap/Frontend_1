@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{margin: 0px;
+box-sizing: border-box}
+
+
+body{font-family: 'roboto'; width: 1024px;}
+
+header{
+    background-color: rgb(62,209,165);
+}
+.Descuentos{position: absolute; 
+    width: 1024px; 
+    height: 38px; 
+    left:0px; 
+    top: 0px; 
+    background-color: #1cd1b0;
+    padding: 10px}
+
+.principal {display: inline-block; 
+    position: absolute; 
+    width: 1024px; 
+    height: 101px; 
+    left:0px; 
+    top:38px; 
+    background-color: #00669f; 
+    box-shadow: 0px 10px 7px rgba(0,0,0,0.25); 
+    border:0px;
+    padding:10px;}
+
+    .pricipal h1{top: 15%;}
+
+main
+.caja{
+    display: inline-block;
+    position: absolute;
+     width: 300px; 
+     height: 336px;
+     left: 32px;
+     top:483px;
+    background-color: #fef3f3;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+    }
+
+.caja h3{position:relative; 
+    text-transform:uppercase; 
+    text-align: center; 
+    top: -70px; 
+    right: 10px;}
+
+.caja p{position:relative; 
+    text-align: left; 
+    bottom: 50px; 
+    width: 280px; 
+    left:10px}
+
+.corazon{position: absolute; 
+        left: 10%; 
+        right: 0%;
+        top: -32%;
+        bottom: 6.25%}
+
+.banner{background-image: url(..\img\images\banner.png);
+    bottom: 40%;
+    background-repeat: no-repeat;
+    height: 193px; 
+    width: 300px;
+    position: relative;
+    border-radius: 16px 16px 0px 0px;
+}
+
+.batman{
+    position: absolute; 
+    bottom: 220px;
+    left: 80px;
+    border-radius: 50%;}
+
+
+.adicional{position: relative; 
+    background: #00669f; 
+    color: white; 
+    left: 110px;;
+    bottom: 30px}
+
+footer
+.derechos{position: absolute; 
+        width: 1024px; 
+        height: 51px; 
+        left: 0px; 
+        top: 972px;
+        color: white; 
+        background: #00669f; box-shadow: 0px 0px 0px; 
+    padding: 10px}
