@@ -30,7 +30,7 @@ header{
     .pricipal h1{top: 15%;}
 
 main
-.caja{
+.caja1{
     display: inline-block;
     position: absolute;
      width: 300px; 
@@ -41,17 +41,17 @@ main
     box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
     }
 
-.caja h3{position:relative; 
+.caja1 h3{position:relative; 
     text-transform:uppercase; 
     text-align: center; 
     top: -70px; 
     right: 10px;}
 
-.caja p{position:relative; 
+.caja1 p{position:relative; 
     text-align: left; 
     bottom: 50px; 
     width: 280px; 
-    left:10px}
+    left:20px}
 
 .corazon{position: absolute; 
         left: 10%; 
@@ -72,7 +72,9 @@ main
     position: absolute; 
     bottom: 220px;
     left: 80px;
-    border-radius: 50%;}
+    border-radius:50%;}
+
+   
 
 
 .adicional{position: relative; 
@@ -80,6 +82,56 @@ main
     color: white; 
     left: 110px;;
     bottom: 30px}
+
+    .caja2{
+        display: inline-block;
+        position: absolute;
+         width: 300px; 
+         height: 336px;
+         left: 370px;
+         top:483px;
+        background-color: #fef3f3;
+        box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+        }
+
+        .harley{
+            position: absolute; 
+            bottom: 220px;
+            left: 80px;
+            border-radius: 50%;}
+        
+        .caja2 h3{position:relative; 
+                text-transform:uppercase; 
+                text-align: center; 
+                top: -70px; 
+                right: 10px;}
+            
+         .caja2 p{position:relative; 
+                 text-align: left; 
+                bottom: 50px; 
+                 width: 280px; 
+                left:20px}  
+
+        .caja3{
+            display: inline-block;
+            position: absolute;
+             width: 300px; 
+             height: 336px;
+             left: 710px;
+             top:483px;
+            background-color: #fef3f3;
+            box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+            }
+        .caja3 h3{position:relative; 
+                text-transform:uppercase; 
+                text-align: center; 
+                top: -70px; 
+                right: 10px;}
+        .caja3 p{position:relative; 
+                text-align: left; 
+                bottom: 50px; 
+                width: 280px; 
+                left:20px}
 
 footer
 .derechos{position: absolute; 
